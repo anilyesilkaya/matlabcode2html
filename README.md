@@ -23,12 +23,6 @@ No backend, no installation, no plugins, completely client-side.
 
 ---
 
-## 🌐 Live Demo
-Coming soon…  
-A hosted version will be available via GitHub Pages once the first MVP is ready.
-
----
-
 ## 📥 Getting Started (for developers)
 
 ### Clone the repo
